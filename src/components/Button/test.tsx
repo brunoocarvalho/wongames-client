@@ -1,5 +1,5 @@
 import { screen } from '@testing-library/react'
-import { AddShoppingCart } from 'styled-icons/material-outlined'
+import { AddShoppingCart } from '@styled-icons/material-outlined'
 import { renderWithTheme } from 'utils/tests/helpers'
 
 import Button from '.'

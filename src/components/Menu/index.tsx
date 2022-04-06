@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import { Menu2 as MenuIcon } from 'styled-icons/remix-fill'
-import { ShoppingCart as ShoppingCartIcon } from 'styled-icons/material-outlined'
-import { Search as SearchIcon } from 'styled-icons/material-outlined'
-import { Close as CloseIcon } from 'styled-icons/material-outlined'
+import { Menu2 as MenuIcon } from '@styled-icons/remix-fill'
+import { ShoppingCart as ShoppingCartIcon } from '@styled-icons/material-outlined'
+import { Search as SearchIcon } from '@styled-icons/material-outlined'
+import { Close as CloseIcon } from '@styled-icons/material-outlined'
 
 import * as S from './styles'
 
